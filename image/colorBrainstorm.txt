@@ -1,0 +1,17 @@
+Color for website
+
+Eula's color
+#02000C
+#F2FFFD
+#77898C
+#3A3D59
+#B6C2D9
+#3A62A5
+#B7AFAE
+
+#2E323F
+#486081
+#8B9192
+#99B3C6
+#CCD4D1
+#F0F5F6
