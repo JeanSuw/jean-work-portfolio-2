@@ -16,3 +16,6 @@ This project is build from scratch with the helps of the packages
 MIT
 ## [Credits](#table-of-content)
 Without these guidances and references, my project would not exist.
+* 20-React/01-Activities/15-Ins_React-Forms
+* 20-React/01-Activities/21-Ins_React-Style
+

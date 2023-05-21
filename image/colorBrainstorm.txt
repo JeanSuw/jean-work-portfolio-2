@@ -15,3 +15,20 @@ Eula's color
 #99B3C6
 #CCD4D1
 #F0F5F6
+
+
+What the website needs
+
+* About me
+* Portfolio
+    - my github work
+        - Includes
+            - An image of the deployed application (either a GIF or a screenshot)
+            - The title of the project
+            - A link to the deployed application
+            - A link to the corresponding GitHub repository
+* Contact me
+    - Name
+    - Email
+    - Message
+* Resume
