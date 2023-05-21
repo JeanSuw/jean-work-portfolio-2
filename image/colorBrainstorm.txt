@@ -1,6 +1,6 @@
 Color for website
 
-Eula's color
+Eula's color pallete
 #02000C
 #F2FFFD
 #77898C
