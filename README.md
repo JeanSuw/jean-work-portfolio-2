@@ -19,3 +19,5 @@ Without these guidances and references, my project would not exist.
 * 20-React/01-Activities/15-Ins_React-Forms
 * 20-React/01-Activities/21-Ins_React-Style
 
+* [Add new color](https://getbootstrap.com/docs/5.3/customize/color/)
+* [How to use Sass in React | Use SCSS in React for Beginners](https://www.youtube.com/watch?v=9F8bzIlgJ4g)

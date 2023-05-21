@@ -1,12 +1,12 @@
 /*
-Creating a form for user to fill their contacts
+Creating a form for user to fill their contacts.
+This is for the contact page.
 */
 
 import React, { useState } from 'react';
 import './style.css';
 
 function Form() {
-    // Here we set two state variables for firstName and lastName using `useState`
     const [userName, setFirstName] = useState('');
   
     const handleInputChange = () => {
@@ -17,7 +17,7 @@ function Form() {
       // Preventing the default behavior of the form submit (which is to refresh the page)
       e.preventDefault();
   
-      // Alert the user their first and last name, clear the inputs
+      // Alert the user their username, clear the inputs
       alert(`Hello ${userName}`);
       setFirstName('');
       setLastName('');
@@ -26,22 +26,15 @@ function Form() {
     return (
       <div>
         <p>
-          Hello {firstName}
+          Hello {userName}
         </p>
         <form className="form">
           <input
-            value={firstName}
-            name="firstName"
+            value={userName}
+            name="userName"
             onChange={handleInputChange}
             type="text"
-            placeholder="First Name"
-          />
-          <input
-            value={lastName}
-            name="lastName"
-            onChange={handleInputChange}
-            type="text"
-            placeholder="Last Name"
+            placeholder="Username"
           />
           <button type="button" onClick={handleFormSubmit}>
             Submit
