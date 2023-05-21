@@ -19,16 +19,30 @@ Eula's color
 
 What the website needs
 
-* About me
-* Portfolio
+* About me ()
+* Portfolio (Project folder)
     - my github work
         - Includes
             - An image of the deployed application (either a GIF or a screenshot)
             - The title of the project
             - A link to the deployed application
             - A link to the corresponding GitHub repository
-* Contact me
-    - Name
-    - Email
-    - Message
+* Contact me (Form folder)
+    - Left side
+        - Name
+        - Email
+        - Message
+    - Right side
+        - My work email?
+        - 
 * Resume
+
+
+* Footer
+    - an area located at the bottom of every page on a website, below the main body content.
+        - Home
+            - About me
+            - Project
+            - Resume
+            - Contact
+    - See more other footers idea on search engine
