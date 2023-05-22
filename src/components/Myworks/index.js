@@ -64,7 +64,7 @@ function Portfolio () {
             <h2>My Projects</h2>
             <ul>
                 <li class="ml-2">
-                    <Project project={projects[0]}></Project>
+                    <Project project={myProject[0]}></Project>
                 </li>
             </ul>
             <ul>
