@@ -69,27 +69,27 @@ function Portfolio () {
             </ul>
             <ul>
                 <li class="ml-2">
-                    <Project project={projects[1]}></Project>
+                    <Project project={myProject[1]}></Project>
                 </li>
             </ul>
             <ul>
                 <li class="ml-2">
-                    <Project project={projects[2]}></Project>
+                    <Project project={myProject[2]}></Project>
                 </li>
             </ul>
             <ul>
                 <li class="ml-2">
-                    <Project project={projects[3]}></Project>
+                    <Project project={myProject[3]}></Project>
                 </li>
             </ul>
             <ul>
                 <li class="ml-2">
-                    <Project project={projects[4]}></Project>
+                    <Project project={myProject[4]}></Project>
                 </li>
             </ul>
             <ul>
                 <li class="ml-2">
-                    <Project project={projects[5]}></Project>
+                    <Project project={myProject[5]}></Project>
                 </li>
             </ul>
         </section>
