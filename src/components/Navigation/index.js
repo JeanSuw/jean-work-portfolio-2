@@ -24,3 +24,5 @@ function Navigation (props){
         </ul>
     );
 }
+
+export default Navigation;

@@ -1,5 +1,6 @@
 /*
-
+This is the decoration part for each individual projects.
+This file used bootstrap kitchen sink card to make the project information look orgainized.
 */
 import React from 'react';
 
