@@ -9,3 +9,9 @@ Home (Label, no links)
     - Contact (link)
 */
 import React from 'react';
+
+function Footer (){
+
+};
+
+export default Footer;
