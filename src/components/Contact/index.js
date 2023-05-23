@@ -7,10 +7,10 @@ import React, { useState } from 'react';
 import './style.css';
 
 function Form() {
-    const [userName, setFirstName] = useState('');
+    const [userName, setUserName] = useState('');
   
     const handleInputChange = () => {
-      return setFirstName(userName);
+      return setUserName(userName);
     };
   
     const handleFormSubmit = (e) => {
@@ -19,8 +19,7 @@ function Form() {
   
       // Alert the user their username, clear the inputs
       alert(`Hello ${userName}`);
-      setFirstName('');
-      setLastName('');
+      setUserName('');
     };
   
     return (

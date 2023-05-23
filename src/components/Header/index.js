@@ -4,7 +4,7 @@ My name as a header
 import React from 'react';
 import Navigation from "../Navigation";
 
-function Header (){
+function Header (props){
     const { currentTab, setCurrentTab } = props;
     return (
 
@@ -16,7 +16,7 @@ function Header (){
                 <p class="lead">Who? Me! Try clicking on this button below.</p>
                 
                 <p class="lead">
-                    <a class="btn btn-primary btn-lg" href="#" role="button">Click me</a>
+                    <a class="btn btn-primary btn-lg" href="AboutMe" role="button">Click me</a>
                 </p>
             </div>
         </header>
