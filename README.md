@@ -11,15 +11,12 @@ This is the second version of my work porfolio. Instead of building everything w
 
 ## [Installation](#table-of-content)
 This project is build from scratch with the helps of the packages
-
 * [Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/webpack/#import-bootstrap)
 * [Bootstrap compiled css](https://getbootstrap.com/docs/4.0/getting-started/webpack/#importing-compiled-css)
 * [Sass](https://www.npmjs.com/package/sass?activeTab=readme)
-
 * [React](https://www.npmjs.com/package/react)
-* []()
-* []()
 
+It is deployed on Github Pages
 ## [Usage](#table-of-content)
 
 ## [License](#table-of-content)
@@ -38,3 +35,4 @@ Without these guidances and references, my project would not exist.
 * [Jumbotron](https://getbootstrap.com/docs/4.0/components/jumbotron/)
 * [Kitchen Sink](https://getbootstrap.com/docs/4.0/components/card/#kitchen-sink)
 * [Bootstrap utilities](https://www.w3schools.com/bootstrap4/bootstrap_utilities.asp)
+* [Footer](https://www.w3schools.com/tags/tag_footer.asp)

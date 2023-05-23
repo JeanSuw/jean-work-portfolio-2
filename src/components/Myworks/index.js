@@ -14,6 +14,7 @@ This is not the decorating part.
 
 */
 import React from 'react';
+import Project from '../Project';
 
 function Portfolio () {
     const myProject = [
