@@ -4,7 +4,7 @@ This is for the contact page.
 */
 
 import React, { useState } from 'react';
-import './style.css';
+//import '../../../';
 
 function Form() {
     const [userName, setUserName] = useState('');

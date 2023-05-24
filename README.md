@@ -36,3 +36,4 @@ Without these guidances and references, my project would not exist.
 * [Kitchen Sink](https://getbootstrap.com/docs/4.0/components/card/#kitchen-sink)
 * [Bootstrap utilities](https://www.w3schools.com/bootstrap4/bootstrap_utilities.asp)
 * [Footer](https://www.w3schools.com/tags/tag_footer.asp)
+* [Styling React Using Sass](https://www.w3schools.com/react/react_sass_styling.asp)
