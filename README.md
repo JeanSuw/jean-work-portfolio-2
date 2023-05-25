@@ -37,3 +37,5 @@ Without these guidances and references, my project would not exist.
 * [Bootstrap utilities](https://www.w3schools.com/bootstrap4/bootstrap_utilities.asp)
 * [Footer](https://www.w3schools.com/tags/tag_footer.asp)
 * [Styling React Using Sass](https://www.w3schools.com/react/react_sass_styling.asp)
+* [React error](https://stackoverflow.com/questions/52525345/react-error-style-prop-value-must-be-an-object-react-style-prop-object)
+* [Redundant alt attribute](https://stackoverflow.com/questions/67448468/redundant-alt-attribute-screen-readers-already-announce-img-tags-as-an-image)

@@ -21,7 +21,7 @@ function Portfolio () {
         {
             projectName: "Bookemon",
             description: "It's a Reading gamification for both Pokemon and Book lovers. This app allows them to search for the book they currently reading and discover which pokemon happens to like that book you search",
-            screenshot: "",
+            screenshot: "Bookemon.png",
             github: "https://github.com/JeanSuw/1-project-to-rule",
             deployed: "https://jeansuw.github.io/1-project-to-rule/",
             madeby: "Darryl Tillman, Jay Masters, Bryan Taylor, Nhan Tran and me."
@@ -29,7 +29,7 @@ function Portfolio () {
         {
             projectName: "Plentiful Pantry",
             description: "A hybrid of pantry and shopping list",
-            screenshot: "",
+            screenshot: "PlentifulPantry.png",
             github: "https://github.com/JeanSuw/Plentiful_Pantry",
             deployed: "https://plentiful-pantry.herokuapp.com/api/users/login",
             madeby: "Darryl Tillman, Getnet Ali, Erin Wallace, and me"
@@ -37,7 +37,7 @@ function Portfolio () {
         {
             projectName: "Scribbles of the Frantics",
             description: "It's a simple text editor",
-            screenshot: "",
+            screenshot: "Scribbles.png",
             github: "https://github.com/JeanSuw/scribbles-of-the-frantics",
             deployed: "https://scribbles-of-the-frantics.herokuapp.com/",
             madeby: "Me"
@@ -45,7 +45,7 @@ function Portfolio () {
         {
             projectName: "Madman's Password",
             description: "It's a random generated password based on criteria you as a user choose",
-            screenshot: "",
+            screenshot: "MadmanPasswordGenerator.png",
             github: "https://github.com/JeanSuw/madman-password",
             deployed: "https://jeansuw.github.io/madman-password/",
             madeby: "Me"
@@ -53,7 +53,7 @@ function Portfolio () {
         {
             projectName: "Jean's work Portfolio (Early version)",
             description: "This is the early version of Jean's portfolio with no CSS frameworks",
-            screenshot: "",
+            screenshot: "JeanPortfolioOldVers.png",
             github: "https://github.com/JeanSuw/Jean-Work-Portfolio",
             deployed: "https://jeansuw.github.io/Jean-Work-Portfolio/",
             madeby: "Me"

@@ -3,6 +3,7 @@ This is the decoration part for each individual projects.
 This file used bootstrap kitchen sink card to make the project information look orgainized.
 */
 import React, {useState} from 'react';
+import './App.scss';
 
 function Project (props){
     const projectObj = useState(props)[0].project;
@@ -16,8 +17,8 @@ function Project (props){
 
     return (
         <div className='card center'>
-            <div class="card" style="width: 20rem;">
-                <img class="card-img-top" src={require(`../../assets/images/${pImage}`)} alt="image of the project"/>
+            <div class="card" style={{width: "20rem"}}>
+                <img class="card-img-top" src={require(`../../assets/images/${pImage}`)} alt="Jean's projects from githubs"/>
                 <div class="card-body">
                     <h5 class="card-title">{pName}</h5>
                     <p class="card-text">{description}</p>
