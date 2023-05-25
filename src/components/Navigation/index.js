@@ -9,17 +9,17 @@ function Navigation (props){
 
 	return (
         <ul class="nav nav-pills">
-            <li class="nav-item">
-                <a class="nav-link" href="#">About Me</a>
+            <li class={currentTab === "about" ? "mx-2 navActive" : "mx-2"}>
+                <span onClick={() => setCurrentTab("aboutme")}>About Me</span>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Portfolio</a>
+            <li class={currentTab === "portfolio" ? "mx-2 navActive" : "mx-2"}>
+                <span onClick={() => setCurrentTab("myworks")}>Portfolio</span>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Contact Me</a>
+            <li class={currentTab === "contact" ? "mx-2 navActive" : "mx-2"}>
+                <span onClick={() => setCurrentTab("contact")}>Contact Me</span>
             </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Resume</a>
+            <li class={currentTab === "resume" ? "mx-2 navActive" : "mx-2"}>
+                <span onClick={() => setCurrentTab("resume")}>Resume</span>
             </li>
         </ul>
     );
