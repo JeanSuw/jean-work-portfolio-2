@@ -8,20 +8,24 @@ function Navigation (props){
     const { currentTab, setCurrentTab } = props;
 
 	return (
-        <ul className="nav nav-pills">
-            <li className={currentTab === "aboutme" ? "nav-link-active" : "nav-link"}>
-                <span onClick={() => setCurrentTab("aboutme")}>About Me</span>
-            </li>
-            <li className={currentTab === "portfolio" ? "nav-link-active" : "nav-link"}>
-                <span onClick={() => setCurrentTab("portfolio")}>Portfolio</span>
-            </li>
-            <li className={currentTab === "contact" ? "nav-link-active" : "nav-link"}>
-                <span onClick={() => setCurrentTab("contact")}>Contact Me</span>
-            </li>
-            <li className={currentTab === "resume" ? "nav-link-active" : "nav-link"}>
-                <span onClick={() => setCurrentTab("resume")}>Resume</span>
-            </li>
-        </ul>
+        <nav>
+            <ul className="nav">
+                <li className={currentTab === "aboutme" ? "nav-link-active" : "nav-link"}>
+                    <span onClick={() => setCurrentTab("aboutme")}>About Me</span>
+                </li>
+                <li className={currentTab === "portfolio" ? "nav-link-active" : "nav-link"}>
+                    <span onClick={() => setCurrentTab("portfolio")}>Portfolio</span>
+                </li>
+                <li className={currentTab === "contact" ? "nav-link-active" : "nav-link"}>
+                    <span onClick={() => setCurrentTab("contact")}>Contact Me</span>
+                </li>
+                <li className={currentTab === "resume" ? "nav-link-active" : "nav-link"}>
+                    <span onClick={() => setCurrentTab("resume")}>Resume</span>
+                </li>
+
+                <li></li>
+            </ul>
+        </nav>
     );
 }
 

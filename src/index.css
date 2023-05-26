@@ -1,0 +1,39 @@
+* {
+    --eulaHair: #43cff5e6;
+    --eulaShirt: #F0F5F6;
+    --eulaCape: #320fe2;
+    --eulaTie: #4c25c2;
+    --eulaPant: #2E323F;
+}
+
+body{
+    background-color: var(--eulaHair);
+}
+
+.header{
+    display: inline-block;
+}
+
+h1 {
+    color: #3A3D59;
+    text-align: center;
+}
+
+nav li {
+    font-size: larger;
+    color: var(--eulaTie);
+    display: inline; 
+    justify-content: space-evenly;
+    margin-right: 10%;
+    vertical-align: middle;
+    border: 2px solid var(--eulaPant);
+    background-color: var(--eulaShirt);
+}
+
+
+
+.footer{
+    display: flex;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+}
