@@ -5,7 +5,7 @@ This file used bootstrap kitchen sink card to make the project information look 
 import React, {useState} from 'react';
 
 function Project (props){
-    const projectObj = useState(props)[0].project;
+    const projectObj = useState(props)[0].projects;
 
     const pName = projectObj.projectName;
     const description = projectObj.description;

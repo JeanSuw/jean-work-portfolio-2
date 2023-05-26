@@ -17,7 +17,7 @@ import React from 'react';
 import Project from '../Project';
 
 function Portfolio () {
-    const myProject = [
+    const projects = [
         {
             projectName: "Bookemon",
             description: "It's a Reading gamification for both Pokemon and Book lovers. This app allows them to search for the book they currently reading and discover which pokemon happens to like that book you search",
@@ -65,32 +65,32 @@ function Portfolio () {
             <h2>My Projects</h2>
             <ul>
                 <li className="ml-2">
-                    <Project project={myProject[0]}></Project>
+                    <Project projects={projects[0]}></Project>
                 </li>
             </ul>
             <ul>
                 <li className="ml-2">
-                    <Project project={myProject[1]}></Project>
+                    <Project projects={projects[1]}></Project>
                 </li>
             </ul>
             <ul>
                 <li className="ml-2">
-                    <Project project={myProject[2]}></Project>
+                    <Project projects={projects[2]}></Project>
                 </li>
             </ul>
             <ul>
                 <li className="ml-2">
-                    <Project project={myProject[3]}></Project>
+                    <Project projects={projects[3]}></Project>
                 </li>
             </ul>
             <ul>
                 <li className="ml-2">
-                    <Project project={myProject[4]}></Project>
+                    <Project projects={projects[4]}></Project>
                 </li>
             </ul>
             <ul>
                 <li className="ml-2">
-                    <Project project={myProject[5]}></Project>
+                    <Project projects={projects[5]}></Project>
                 </li>
             </ul>
         </section>
