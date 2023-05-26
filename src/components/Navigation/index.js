@@ -8,17 +8,17 @@ function Navigation (props){
     const { currentTab, setCurrentTab } = props;
 
 	return (
-        <ul class="nav nav-pills">
-            <li class={currentTab === "about" ? "mx-2 navActive" : "mx-2"}>
+        <ul className="nav nav-pills">
+            <li className={currentTab === "aboutme" ? "nav-link-active" : "nav-link"}>
                 <span onClick={() => setCurrentTab("aboutme")}>About Me</span>
             </li>
-            <li class={currentTab === "portfolio" ? "mx-2 navActive" : "mx-2"}>
-                <span onClick={() => setCurrentTab("myworks")}>Portfolio</span>
+            <li className={currentTab === "portfolio" ? "nav-link-active" : "nav-link"}>
+                <span onClick={() => setCurrentTab("portfolio")}>Portfolio</span>
             </li>
-            <li class={currentTab === "contact" ? "mx-2 navActive" : "mx-2"}>
+            <li className={currentTab === "contact" ? "nav-link-active" : "nav-link"}>
                 <span onClick={() => setCurrentTab("contact")}>Contact Me</span>
             </li>
-            <li class={currentTab === "resume" ? "mx-2 navActive" : "mx-2"}>
+            <li className={currentTab === "resume" ? "nav-link-active" : "nav-link"}>
                 <span onClick={() => setCurrentTab("resume")}>Resume</span>
             </li>
         </ul>

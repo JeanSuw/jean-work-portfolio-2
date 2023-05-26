@@ -16,18 +16,18 @@ function Project (props){
 
     return (
         <div className='card center'>
-            <div class="card" style={{width: "20rem"}}>
-                <img class="card-img-top" src={require(`../../assets/images/${pImage}`)} alt="Jean's projects from githubs"/>
-                <div class="card-body">
-                    <h5 class="card-title">{pName}</h5>
-                    <p class="card-text">{description}</p>
+            <div className="card" style={{width: "20rem"}}>
+                <img className="card-img-top" src={require(`../../assets/images/${pImage}`)} alt="Jean's projects from githubs"/>
+                <div className="card-body">
+                    <h5 className="card-title">{pName}</h5>
+                    <p className="card-text">{description}</p>
                 </div>
-                <ul class="list-group list-group-flush">
-                    <li class="list-group-item">Made by {creators}</li>
+                <ul className="list-group list-group-flush">
+                    <li className="list-group-item">Made by {creators}</li>
                 </ul>
-                <div class="card-body">
-                    <a href={webLink} class="card-link">Website</a>
-                    <a href={githubLink} class="card-link">Repository</a>
+                <div className="card-body">
+                    <a href={webLink} className="card-link">Website</a>
+                    <a href={githubLink} className="card-link">Repository</a>
                 </div>
             </div>
         </div>

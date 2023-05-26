@@ -64,32 +64,32 @@ function Portfolio () {
         <section>
             <h2>My Projects</h2>
             <ul>
-                <li class="ml-2">
+                <li className="ml-2">
                     <Project project={myProject[0]}></Project>
                 </li>
             </ul>
             <ul>
-                <li class="ml-2">
+                <li className="ml-2">
                     <Project project={myProject[1]}></Project>
                 </li>
             </ul>
             <ul>
-                <li class="ml-2">
+                <li className="ml-2">
                     <Project project={myProject[2]}></Project>
                 </li>
             </ul>
             <ul>
-                <li class="ml-2">
+                <li className="ml-2">
                     <Project project={myProject[3]}></Project>
                 </li>
             </ul>
             <ul>
-                <li class="ml-2">
+                <li className="ml-2">
                     <Project project={myProject[4]}></Project>
                 </li>
             </ul>
             <ul>
-                <li class="ml-2">
+                <li className="ml-2">
                     <Project project={myProject[5]}></Project>
                 </li>
             </ul>

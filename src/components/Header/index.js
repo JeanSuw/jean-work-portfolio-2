@@ -10,15 +10,10 @@ function Header (props){
 
         <header>
             <h1>Jean's Website Portfolio</h1>
-            <Navigation currentTab={currentTab} setCurrentTab={setCurrentTab}></Navigation>
-            <div class="jumbotron">
-                <h1 class="display-4">Hi, everyone! Welcome to my Portfolio website</h1>
-                <p class="lead">Who? Me! Try clicking on this button below.</p>
-                
-                <p class="lead">
-                    <a class="btn btn-primary btn-lg" href="AboutMe" role="button">Click me</a>
-                </p>
+            <div>
+                <Navigation currentTab={currentTab} setCurrentTab={setCurrentTab}></Navigation>
             </div>
+            
         </header>
     );
 };

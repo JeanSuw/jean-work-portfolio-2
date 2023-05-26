@@ -12,21 +12,21 @@ function Resume () {
             <p>*** Downloadable versions: To be determine ***</p>
 
             <h4>Frontend Proficiencies</h4>
-            <ul class="list-group">
-                <li class="list-group-item">HTML</li>
-                <li class="list-group-item">CSS: Bootstrap & Bulma</li>
-                <li class="list-group-item">JavaScript</li>
-                <li class="list-group-item">JS Library: jQuery</li>
-                <li class="list-group-item">React</li>
+            <ul className="list-group">
+                <li className="list-group-item">HTML</li>
+                <li className="list-group-item">CSS: Bootstrap & Bulma</li>
+                <li className="list-group-item">JavaScript</li>
+                <li className="list-group-item">JS Library: jQuery</li>
+                <li className="list-group-item">React</li>
             </ul>
 
             <h4>Backend and Database Proficiencies</h4>
-            <ul class="list-group">
-                <li class="list-group-item">APIs</li>
-                <li class="list-group-item">NodeJS & ExpressJS</li>
-                <li class="list-group-item">Rest API</li>
-                <li class="list-group-item">SQL: MySQL</li>
-                <li class="list-group-item">NoSQL: MongoDB</li>
+            <ul className="list-group">
+                <li className="list-group-item">APIs</li>
+                <li className="list-group-item">NodeJS & ExpressJS</li>
+                <li className="list-group-item">Rest API</li>
+                <li className="list-group-item">SQL: MySQL</li>
+                <li className="list-group-item">NoSQL: MongoDB</li>
             </ul>
 
         </section>
