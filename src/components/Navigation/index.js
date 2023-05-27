@@ -22,8 +22,6 @@ function Navigation (props){
                 <li className={currentTab === "resume" ? "nav-link-active" : "nav-link"}>
                     <span onClick={() => setCurrentTab("resume")}>Resume</span>
                 </li>
-
-                <li></li>
             </ul>
         </nav>
     );
