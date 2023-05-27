@@ -28,7 +28,7 @@ Without these guidances and references, my project would not exist.
 * 20-React/01-Activities/21-Ins_React-Style
 
 * [Add new color](https://getbootstrap.com/docs/5.3/customize/color/)
-* [How to use Sass in React | Use SCSS in React for Beginners](https://www.youtube.com/watch?v=9F8bzIlgJ4g)
+* [How to use Sass in React: Use SCSS in React for Beginners](https://www.youtube.com/watch?v=9F8bzIlgJ4g)
 * [Navigation](https://getbootstrap.com/docs/4.0/components/card/#navigation)
 * [How to Include a JavaScript File in another JavaScript File](https://www.tutorialrepublic.com/faq/how-to-include-a-javascript-file-in-another-javascript-file.php)
 * [Importing and Exporting Components](https://react.dev/learn/importing-and-exporting-components)
