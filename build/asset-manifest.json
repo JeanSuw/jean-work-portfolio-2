@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/react-jean-work-portfolio-2/static/css/main.f95c5cdc.css",
+    "main.js": "/react-jean-work-portfolio-2/static/js/main.506e02cc.js",
+    "static/media/PlentifulPantry.png": "/react-jean-work-portfolio-2/static/media/PlentifulPantry.81411c6bedcf147777b3.png",
+    "static/media/JeanPortfolioOldVers.png": "/react-jean-work-portfolio-2/static/media/JeanPortfolioOldVers.168d33280bff9173c1c7.png",
+    "static/media/Bookemon.png": "/react-jean-work-portfolio-2/static/media/Bookemon.69f7f2d6034ded6ec936.png",
+    "static/media/MadmanPasswordGenerator.png": "/react-jean-work-portfolio-2/static/media/MadmanPasswordGenerator.4b82ad105aeafa8aa05d.png",
+    "static/media/Scribbles.png": "/react-jean-work-portfolio-2/static/media/Scribbles.a96e4e10055ddf1a1c68.png",
+    "index.html": "/react-jean-work-portfolio-2/index.html",
+    "main.f95c5cdc.css.map": "/react-jean-work-portfolio-2/static/css/main.f95c5cdc.css.map",
+    "main.506e02cc.js.map": "/react-jean-work-portfolio-2/static/js/main.506e02cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f95c5cdc.css",
+    "static/js/main.506e02cc.js"
+  ]
+}
