@@ -1,2 +1,0 @@
-*{--eulaHair:#43cff5e6;--eulaShirt:#f0f5f6;--eulaCape:#320fe2;--eulaTie:#4c25c2;--eulaPant:#2e323f}body{background-color:var(--eulaHair)}.header{display:inline-block}h1{color:#3a3d59;text-align:center}nav li{background-color:var(--eulaShirt);border:2px solid var(--eulaPant);color:var(--eulaTie);display:inline;font-size:larger;margin-right:10%;vertical-align:middle}.footer,nav li{justify-content:space-evenly}.footer{display:flex;flex-wrap:wrap}
-/*# sourceMappingURL=main.f95c5cdc.css.map*/
